@@ -32,7 +32,7 @@ class AuthController {
     sendEmail(
       newUser.email,
       "Registration Successful",
-      "Welcome to next generation employee review system app"
+      "Welcome to next generation Hospital API  app"
     );
 
     // if you are creating Only API then return this
