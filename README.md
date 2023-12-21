@@ -89,4 +89,4 @@ Note:
 
 ### Live Demo Link
 
-[Live Demo Link](Comming soon)
+[Live Demo Link](https://ninja-hospital-api.onrender.com)
